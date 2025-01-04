@@ -19,6 +19,6 @@ body{
     text-align: center;
     color: rgb(140, 160, 119);
     backdrop-filter: blur(5px);
-    background-color: white;
+    background-color: hsla (0, 0%, 100%, 0.1);
     width: 100%;
 }
